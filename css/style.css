@@ -1,10 +1,96 @@
-.footer         {
+.nav {
+            padding: 20px;
+            background-color: #424c5a;
+            
+}              
 
-            text-align: center;
-            background-color: #1F2937;
+
+.menu {
+            display: flex;
+            justify-content: space-between;
+            
+}
+
+.links {
+            display: flex;
+
+
+}
+
+
+
+.headerlogo {
+
             color: #F9FAF8;
+            font-size: 24px;
+           
+         
+            
+
+}
+
+
+
+.headerlink {
+            color: #e5e7eb;
+            font-size: 18px;
+           
+            
+         
+
+}
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.register       {
+            background-color: #424c5a;
+
+}
+
+.signup         {
+            background-color: #3882F6;
+            color: #F9FAF8;
+            
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer         {
+            text-align: center;
+            background-color: #424c5a;
+            color: #F9FAF8;
+            font-size: 18px ;
+            padding:  20px;
+            font-family: roboto;
 }
