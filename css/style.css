@@ -1,43 +1,37 @@
+* {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 .nav {
             padding: 20px;
             background-color: #424c5a;
-            
 }              
-
-
 .menu {
             display: flex;
             justify-content: space-between;
-            
+            align-items: center;
+            margin-left: 100px;
+            margin-right: 100px;  
 }
-
 .links {
-            display: flex;
-
-
+           display: flex;
+           align-items: center;
+            font-size: 18px;
+            color: #e5e7eb;
 }
-
-
-
 .headerlogo {
-
             color: #F9FAF8;
             font-size: 24px;
-           
-         
-            
-
 }
-
-
-
 .headerlink {
             color: #e5e7eb;
             font-size: 18px;
-           
-            
-         
-
+            margin-left: 10px;
+            margin-right: 10px;
+}
+.heromain {
+            font-size: 48px;
+            font-weight: bold;
+            color: #F9FAF8;
 }
 
 
