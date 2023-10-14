@@ -11,31 +11,32 @@
             align-items: center;
             margin-left: 100px;
             margin-right: 100px;  
+            
 }
 .links {
-           display: flex;
-           align-items: center;
+            display: flex;
+            align-items: center;
             font-size: 18px;
             color: #e5e7eb;
 }
-.headerlogo.img {
-          width: 200px;
-          height: 50px;
+.headerlogo {
+            flex: 1;
+            height: 100px;
 }
+
 .headerlink {
             color: #e5e7eb;
             font-size: 18px;
             margin-left: 10px;
             margin-right: 10px;
+            border: 5px solid red;
+            
+            
 }
 .heromain {
             font-size: 48px;
             font-weight: bold;
             color: #F9FAF8;
-}
-.img {
-            max-width: 100%;
-            max-height: 100%;
 }
 
 
@@ -63,6 +64,14 @@
             background-color: #3882F6;
             color: #F9FAF8;
             
+}
+
+
+.monthead {
+            text-align: center;
+            font-size: 36px;
+            color: #1F2937;
+            font-weight: bold;
 
 
 
@@ -71,7 +80,26 @@
 
 
 
+.montage {
+            display: flex;
+            justify-content: center;
+            justify-content: space-around;
 
+
+
+
+}
+
+
+.montpic {
+            height: 200px;
+            width: 300px;
+          
+            
+
+
+
+}
 
 
 
