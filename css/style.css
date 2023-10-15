@@ -28,15 +28,16 @@
             color: #e5e7eb;
             font-size: 18px;
             margin-left: 10px;
-            margin-right: 10px;
-            border: 5px solid red;
-            
-            
+            margin-right: 10px;   
 }
 .heromain {
             font-size: 48px;
             font-weight: bold;
             color: #F9FAF8;
+            border: 5px solid red;    
+            height: 150px;
+            width: 500px;
+            margin-left: 100px;
 }
 
 
@@ -72,41 +73,28 @@
             font-size: 36px;
             color: #1F2937;
             font-weight: bold;
-
-
-
 }
-
-
-
-
 .montage {
             display: flex;
             justify-content: center;
-            justify-content: space-around;
-
-
-
-
+            gap: 75px;
 }
-
-
 .montpic {
-            height: 200px;
-            width: 300px;
-          
-            
-
-
-
+            height: 150px;
+            width: 200px;
+            border: 5px solid #3882F6;
+            border-radius: 25px;
 }
-
-
-
-
-
-
-
+.imginfo {
+            border-radius: 10%;
+}
+.infotext {
+            color: #1F2937;
+            font-size: 18px;
+            font-weight: bold;
+            height: 150px;
+            width: 200px;
+}
 
 
 
