@@ -126,16 +126,21 @@
 }
 .footnote {
             background-color: #F9FAF8;
-            padding: 70px;
+            padding-left: 200px;
+            padding-right: 200px;
+            padding-top: 100px;
+            padding-bottom: 100px;
 }
 .footnote1 {
             display: flex;
-            justify-content: space-around;
+            justify-content: space-between;
+            align-items: center;
             background-color: #3882F6;
-            padding: 50px;
+            padding: 25px
 }
 .footnote2 {
             display: flex;
+            justify-content: space-between;
             align-items: center;
             font-size: 26px;
             padding-left: 300px;
